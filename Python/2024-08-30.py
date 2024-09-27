@@ -7,7 +7,7 @@
 
 
 texto = "meu dado"  # string
-inteiro = 10
+inteiro = 10, 9, 8, 7, 6, 5, 4, 3, 2, 1
 real = 3.14  # float
 booleano_verdadeiro = True  # bool
 booleano_falso = False  # bool
@@ -60,7 +60,7 @@ bool(-0.1)  # True
 # multiplicação
 10 * 5  # 50
 # divisão
-10 / 5  # 2.0
+10 / 5  # 2. -> float
 # divisão inteira
 10 // 5  # 2
 # resto da divisão ou módulo

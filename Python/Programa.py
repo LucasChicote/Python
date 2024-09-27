@@ -7,13 +7,17 @@ nascimento = int(input())
 
 idade = ano_atual - nascimento
 
-print('Sua idade é:', idade) 
+print('Sua idade é:', idade, "anos") 
 
-import datetime
 
-datetime.datetime.now()
+x = 10
 
-data= datetime
+
+
+if x <10:
+    print('você está correto')
+else:
+    print('Você está errado')
 
 
        
